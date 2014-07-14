@@ -1,0 +1,17 @@
+{
+  "name": "basic-oop",
+  "version": "0.0.0",
+  "description": "This project is a basic introduction to object oriented programming.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nss-cohort-2014-06-07/basic-oop"
+  },
+  "author": "Chyld Medford",
+  "license": "ISC",
+  "homepage": "https://github.com/nss-cohort-2014-06-07/basic-oop",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  }
+}
